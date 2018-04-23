@@ -1,0 +1,43 @@
+﻿  StitchingBasic.cpp
+D:\Program Files\VisualStudio12.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+          D:\Program Files\VisualStudio12.0\VC\atlmfc\include\afx.h(33) : see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+StitchingBasic.cpp(261): warning C4101: 'dTmp' : unreferenced local variable
+StitchingBasic.cpp(278): warning C4101: 'random' : unreferenced local variable
+StitchingBasic.cpp(400): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+StitchingBasic.cpp(401): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+StitchingBasic.cpp(420): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+StitchingBasic.cpp(429): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+StitchingBasic.cpp(430): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+StitchingBasic.cpp(432): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+StitchingBasic.cpp(433): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+StitchingBasic.cpp(444): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+StitchingBasic.cpp(445): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+StitchingBasic.cpp(483): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+StitchingBasic.cpp(484): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+StitchingBasic.cpp(486): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+StitchingBasic.cpp(571): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+StitchingBasic.cpp(572): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+StitchingBasic.cpp(574): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+StitchingBasic.cpp(407): warning C4101: 'i' : unreferenced local variable
+StitchingBasic.cpp(411): warning C4101: 'nH_transR' : unreferenced local variable
+StitchingBasic.cpp(411): warning C4101: 'nW_transR' : unreferenced local variable
+StitchingBasic.cpp(641): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+StitchingBasic.cpp(609): warning C4101: 'i' : unreferenced local variable
+StitchingBasic.cpp(725): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+StitchingBasic.cpp(738): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+StitchingBasic.cpp(775): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+StitchingBasic.cpp(708): warning C4101: 'i' : unreferenced local variable
+StitchingBasic.cpp(716): warning C4101: 'nH_transR' : unreferenced local variable
+StitchingBasic.cpp(716): warning C4101: 'nW_transR' : unreferenced local variable
+StitchingBasic.cpp(805): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+StitchingBasic.cpp(806): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+StitchingBasic.cpp(807): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+StitchingBasic.cpp(840): warning C4018: '<' : signed/unsigned mismatch
+StitchingBasic.cpp(842): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+StitchingBasic.cpp(843): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+StitchingBasic.cpp(844): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+StitchingBasic.cpp(1056): warning C4244: '=' : conversion from 'double' to 'BYTE', possible loss of data
+StitchingBasic.cpp(1061): warning C4244: '=' : conversion from 'double' to 'BYTE', possible loss of data
+StitchingBasic.cpp(1066): warning C4244: '=' : conversion from 'double' to 'BYTE', possible loss of data
+  ImageProcessing.vcxproj -> D:\Source\11. 프로그래밍\Image Stitch\.\Release\ImageProcessing.exe

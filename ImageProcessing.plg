@@ -1,0 +1,133 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ImageProcessing - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\SAMSUNG\AppData\Local\Temp\RSP574A.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Release/" /Fp"Release/ImageProcessing.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\Application.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\Bpn.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\Chap2.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\Chap3.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\Chap4.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\Chap5.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\ChildFrm.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\CoolDialogBar.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\Cubic3D.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\Fruc.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\Image.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\ImageProcessing.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\ImageProcessingDoc.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\ImageProcessingView.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\MainFrm.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\MainProcessDlg.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\SaveScreenOpt.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\SR.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\Stitch.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\ThresholdingDlg.cpp"
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\YuvOptionDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\SAMSUNG\AppData\Local\Temp\RSP574A.tmp" 
+Creating temporary file "C:\Users\SAMSUNG\AppData\Local\Temp\RSP574B.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Release/" /Fp"Release/ImageProcessing.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\학업\이대호 교수님 관련 과제 모음\PLAYER\NewSR(20140106)\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\SAMSUNG\AppData\Local\Temp\RSP574B.tmp" 
+Creating temporary file "C:\Users\SAMSUNG\AppData\Local\Temp\RSP574C.tmp" with contents
+[
+vfw32.lib JpegLib.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/ImageProcessing.pdb" /machine:I386 /out:"Release/ImageProcessing.exe" 
+".\Release\Application.obj"
+".\Release\Bpn.obj"
+".\Release\Chap2.obj"
+".\Release\Chap3.obj"
+".\Release\Chap4.obj"
+".\Release\Chap5.obj"
+".\Release\ChildFrm.obj"
+".\Release\CoolDialogBar.obj"
+".\Release\Cubic3D.obj"
+".\Release\Fruc.obj"
+".\Release\Image.obj"
+".\Release\ImageProcessing.obj"
+".\Release\ImageProcessingDoc.obj"
+".\Release\ImageProcessingView.obj"
+".\Release\MainFrm.obj"
+".\Release\MainProcessDlg.obj"
+".\Release\SaveScreenOpt.obj"
+".\Release\SR.obj"
+".\Release\StdAfx.obj"
+".\Release\Stitch.obj"
+".\Release\ThresholdingDlg.obj"
+".\Release\YuvOptionDlg.obj"
+".\Release\ImageProcessing.res"
+]
+Creating command line "link.exe @C:\Users\SAMSUNG\AppData\Local\Temp\RSP574C.tmp"
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+Compiling...
+Application.cpp
+Bpn.cpp
+Chap2.cpp
+Chap3.cpp
+Chap4.cpp
+Chap5.cpp
+ChildFrm.cpp
+CoolDialogBar.cpp
+Cubic3D.cpp
+Fruc.cpp
+Image.cpp
+ImageProcessing.cpp
+ImageProcessingDoc.cpp
+ImageProcessingView.cpp
+MainFrm.cpp
+MainProcessDlg.cpp
+SaveScreenOpt.cpp
+SR.cpp
+Stitch.cpp
+ThresholdingDlg.cpp
+Generating Code...
+Compiling...
+YuvOptionDlg.cpp
+Generating Code...
+Linking...
+Creating temporary file "C:\Users\SAMSUNG\AppData\Local\Temp\RSP744F.tmp" with contents
+[
+/nologo /o"Release/ImageProcessing.bsc" 
+".\Release\StdAfx.sbr"
+".\Release\Application.sbr"
+".\Release\Bpn.sbr"
+".\Release\Chap2.sbr"
+".\Release\Chap3.sbr"
+".\Release\Chap4.sbr"
+".\Release\Chap5.sbr"
+".\Release\ChildFrm.sbr"
+".\Release\CoolDialogBar.sbr"
+".\Release\Cubic3D.sbr"
+".\Release\Fruc.sbr"
+".\Release\Image.sbr"
+".\Release\ImageProcessing.sbr"
+".\Release\ImageProcessingDoc.sbr"
+".\Release\ImageProcessingView.sbr"
+".\Release\MainFrm.sbr"
+".\Release\MainProcessDlg.sbr"
+".\Release\SaveScreenOpt.sbr"
+".\Release\SR.sbr"
+".\Release\Stitch.sbr"
+".\Release\ThresholdingDlg.sbr"
+".\Release\YuvOptionDlg.sbr"]
+Creating command line "bscmake.exe @C:\Users\SAMSUNG\AppData\Local\Temp\RSP744F.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+ImageProcessing.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6761c6d8-8949-403c-a7c3-95f86fb0b98e}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{91fc95ad-6860-41b9-bf65-f0327d34f42a}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{3ac72655-94ff-418b-8a24-0615e3f5ca99}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Stitching">
+      <UniqueIdentifier>{541cf067-277d-4109-b1ee-4ae9f2b68f4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Stitching">
+      <UniqueIdentifier>{b3269dc1-2fee-4beb-a959-c7062783dded}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Stitching\Class">
+      <UniqueIdentifier>{6919abe6-35d2-4e86-adee-ba8c0bb320c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Stitching\Class">
+      <UniqueIdentifier>{061b8b0b-5443-46a7-b67c-56769f377303}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Stitching\VideoStitch">
+      <UniqueIdentifier>{f6b73e63-0bb7-4ea6-afb5-7c2c62a54f83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Stitching\VideoStitch">
+      <UniqueIdentifier>{c209f793-7cb8-4013-b203-39388fa796e0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bpn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChildFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CoolDialogBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cubic3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fruc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageProcessing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageProcessingDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageProcessingView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainProcessDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveScreenOpt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SR.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Stitch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThresholdingDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="YuvOptionDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFRUC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="meanshift\MeanShift.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiHomoStitcing_jy.cpp">
+      <Filter>Source Files\Stitching</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageStitch_jy.cpp">
+      <Filter>Source Files\Stitching</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Source Files\Stitching</Filter>
+    </ClCompile>
+    <ClCompile Include="StitchingBasic.cpp">
+      <Filter>Source Files\Stitching\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="StitchMultiHomo.cpp">
+      <Filter>Source Files\Stitching\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="StitchMeanShift.cpp">
+      <Filter>Source Files\Stitching\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="StitchLayer.cpp">
+      <Filter>Source Files\Stitching\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="StitchKMeans.cpp">
+      <Filter>Source Files\Stitching\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgVideoStitch.cpp">
+      <Filter>Source Files\Stitching\VideoStitch</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ImageProcessing.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bpn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chap2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chap3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chap4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chap5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChildFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CoolDialogBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cubic3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fruc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageProcessing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageProcessingDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageProcessingView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainProcessDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveScreenOpt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SR.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Stitch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThresholdingDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="YuvOptionDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFRUC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="meanshift\MeanShift.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiHomoStitcing_jy.h">
+      <Filter>Header Files\Stitching</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageStitch_jy.h">
+      <Filter>Header Files\Stitching</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Header Files\Stitching</Filter>
+    </ClInclude>
+    <ClInclude Include="StitchBasic.h">
+      <Filter>Header Files\Stitching\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="StitchMultiHomo.h">
+      <Filter>Header Files\Stitching\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="StitchMeanShift.h">
+      <Filter>Header Files\Stitching\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="StitchLayer.h">
+      <Filter>Header Files\Stitching\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="StitchKMeans.h">
+      <Filter>Header Files\Stitching\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgVideoStitch.h">
+      <Filter>Header Files\Stitching\VideoStitch</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\default1.bin">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\ImageProcessing.ico">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\ImageProcessing.rc2">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\ImageProcessingDoc.ico">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,26 @@
+﻿Build started 2016-01-26 오후 4:49:48.
+     1>Project "D:\Source\NewSR(20140106)\ImageProcessing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\VisualStudio12.0\VC\bin\x86_amd64\CL.exe /c /ID:\opencv\build\include /ID:\opencv\build\include\opencv /ID:\opencv\build\include\opencv2 /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\ImageProcessing.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /FR"x64\Debug\\" /Gd /TP /errorReport:prompt Chap2.cpp Image.cpp ImageProcessing.cpp ImageProcessingView.cpp ImageStitch_jy.cpp MainFrm.cpp MainProcessDlg.cpp SR.cpp
+         Chap2.cpp
+     1>Chap2.cpp : fatal error C1853: '.\Debug\ImageProcessing.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+         Image.cpp
+     1>Image.cpp : fatal error C1853: '.\Debug\ImageProcessing.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+         ImageProcessing.cpp
+     1>ImageProcessing.cpp : fatal error C1853: '.\Debug\ImageProcessing.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+         ImageProcessingView.cpp
+     1>ImageProcessingView.cpp : fatal error C1853: '.\Debug\ImageProcessing.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+         ImageStitch_jy.cpp
+     1>ImageStitch_jy.cpp : fatal error C1853: '.\Debug\ImageProcessing.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+         MainFrm.cpp
+     1>MainFrm.cpp : fatal error C1853: '.\Debug\ImageProcessing.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+         MainProcessDlg.cpp
+     1>MainProcessDlg.cpp : fatal error C1853: '.\Debug\ImageProcessing.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+         SR.cpp
+     1>SR.cpp : fatal error C1853: '.\Debug\ImageProcessing.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+         Generating Code...
+     1>Done Building Project "D:\Source\NewSR(20140106)\ImageProcessing.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.94
