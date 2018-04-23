@@ -20,7 +20,7 @@
 
 ## 2. Overall Method
 
-![head](https://github.com/wjy5446/Image-stitching-using-segmentation/tree/master/image/method.png)
+![head](https://github.com/wjy5446/Image-stitching-using-segmentation/blob/master/image/method.png)
 
 
 
@@ -30,20 +30,20 @@ I divide the picture into background and foreground using inlier rate.
 
 
 
-![head](https://github.com/wjy5446/Image-stitching-using-segmentation/tree/master/image/inlier.png)
+![head](https://github.com/wjy5446/Image-stitching-using-segmentation/blob/master/image/inlier.png)
 
 - I use the inlier rate like the eqaution in the above figure.
 
 
 
-![head](https://github.com/wjy5446/Image-stitching-using-segmentation/tree/master/image/case_inlier.png)
+![head](https://github.com/wjy5446/Image-stitching-using-segmentation/blob/master/image/case_inlier.png)
 
 - In case of foreground, the inlier rate is high.
 - In case of background, the inlier rate is low.
 
 
 
-![head](https://github.com/wjy5446/Image-stitching-using-segmentation/tree/master/image/experiment_inlier.png)
+![head](https://github.com/wjy5446/Image-stitching-using-segmentation/blob/master/image/experiment_inlier.png)
 
 - in the above figure, you can see that when the inlier rate is low, the foreground is selected.
 
