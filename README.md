@@ -96,7 +96,7 @@ I divide the picture into background and foreground using inlier rate.
 
 ##### MFC
 
-![head](https://github.com/wjy5446/Image-stitching-using-segmentation/blob/master/image/screenshot.png)
+![head](https://github.com/wjy5446/Image-stitching-using-segmentation/blob/master/image/screenshot.PNG)
 
 
 
