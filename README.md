@@ -8,7 +8,7 @@
 
 
 
-![alt text](https://github.com/wjy5446/Image-stitching-using-segmentation/tree/master/image/abstract0.png)
+![alt text](https://github.com/wjy5446/Image-stitching-using-segmentation/blob/master/image/abstract0.png)
 
 
 
